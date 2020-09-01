@@ -1,4 +1,4 @@
-#Sat Jul 25 15:59:41 EET 2020
+#Tue Sep 01 16:55:01 EET 2020
 base.0=/Users/ataberkcanitez/Documents/FlutterDevelopment/Xylophone/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
